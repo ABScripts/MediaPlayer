@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<RCC version="1.0">
+    <qresource prefix="/">
+        <file alias="qml/main.qml">qml/main.qml</file>
+        <file alias="qml/playlistMediaView.qml">qml/playlistMediaView.qml</file>
+    </qresource>
+</RCC>

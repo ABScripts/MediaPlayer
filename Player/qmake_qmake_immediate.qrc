@@ -1,0 +1,6 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource prefix="/">
+<file alias="qml/main.qml">/home/sviatoslav/Base/sviatoslav-rovenchak/Task2/Player/qml/main.qml</file>
+<file alias="qml/playlistMediaView.qml">/home/sviatoslav/Base/sviatoslav-rovenchak/Task2/Player/qml/playlistMediaView.qml</file>
+</qresource>
+</RCC>
