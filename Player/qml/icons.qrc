@@ -1,0 +1,27 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="stop.png">resources/controls-icons/stop.png</file>
+        <file alias="next.png">resources/controls-icons/next.png</file>
+        <file alias="previous.png">resources/controls-icons/previous.png</file>
+        <file alias="folder.png">resources/controls-icons/folder.png</file>
+        <file alias="repeat.png">resources/controls-icons/repeat.png</file>
+        <file alias="shuffle.png">resources/controls-icons/shuffle.png</file>
+        <file alias="favourite.png">resources/controls-icons/favorite.png</file>
+        <file alias="music.png">resources/controls-icons/music.png</file>
+        <file alias="filter.png">resources/controls-icons/filter.png</file>
+        <file alias="settings.png">resources/controls-icons/settings.png</file>
+        <file alias="pause.png">resources/controls-icons/pause.png</file>
+        <file alias="play.png">resources/controls-icons/play.png</file>
+        <file alias="add.png">resources/controls-icons/add.png</file>
+        <file alias="back.png">resources/controls-icons/back.png</file>
+        <file alias="trash.png">resources/controls-icons/trash.png</file>
+    </qresource>
+    <qresource prefix="/covers">
+        <file alias="httyd-soundtrack-cover.ipg">resources/covers/httyd-soundtrack-cover.jpg</file>
+        <file alias="vynil.png">resources/covers/vynil.png</file>
+    </qresource>
+    <qresource prefix="/status-icons">
+        <file alias="no-data.png">resources/operation-status-icons/no-data.png</file>
+        <file alias="loading.gif">resources/operation-status-icons/loading.gif</file>
+    </qresource>
+</RCC>
